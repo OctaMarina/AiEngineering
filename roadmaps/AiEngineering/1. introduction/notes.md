@@ -1,22 +1,8 @@
-# Impact on Product Development
-
-AI engineering streamlines product development by automating tasks, optimizing processes, and enabling data-driven decisions. This allows companies to innovate faster, cut costs, and deliver more personalized, high-quality user experiences.
-
-# Roles and Responsibilities
-
-AI Engineers are responsible for designing, developing, and deploying AI systems that solve real-world problems. Their roles include building machine learning models, implementing data processing pipelines, and integrating AI solutions into existing software or platforms. They work on tasks like data collection, cleaning, and labeling, as well as model training, testing, and optimization to ensure high performance and accuracy. AI Engineers also focus on scaling models for production use, monitoring their performance, and troubleshooting issues. Additionally, they collaborate with data scientists, software developers, and other stakeholders to align AI projects with business goals, ensuring that solutions are reliable, efficient, and ethically sound.
-
-# What is Ai Engineering?
-AI engineers are professionals who specialize in designing, developing, and implementing artificial intelligence (AI) systems. Their work is essential in various industries, as they create applications that enable machines to perform tasks that typically require human intelligence, such as problem-solving, learning, and decision-making.
-
 # Ai Engineer vs ML Engineer
 An AI Engineer uses pre-trained models and existing AI tools to improve user experiences. They focus on applying AI in practical ways, without building models from scratch. This is different from AI Researchers and ML Engineers, who focus more on creating new models or developing AI theory.
 
 # AI vs AGI
 AI = narrow, task-specific. AGI = broad, human-like intelligence across many domains.
-
-# LLMs
-LLMs, or Large Language Models, are advanced AI models trained on vast datasets to understand and generate human-like text. They can perform a wide range of natural language processing tasks, such as text generation, translation, summarization, and question answering. Examples include GPT-4, BERT, and T5. LLMs are capable of understanding context, handling complex queries, and generating coherent responses, making them useful for applications like chatbots, content creation, and automated support. However, they require significant computational resources and may carry biases from their training data.
 
 # Inference
 Inference in AI is the process of using a trained model to make predictions or decisions on new, unseen data. Unlike training, it applies learned knowledge in real-time, such as a self-driving car recognizing a stop sign it hasn’t seen before. 
