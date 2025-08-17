@@ -11,6 +11,7 @@ Inference in AI is the process of using a trained model to make predictions or d
 
 * A vector is a list of numbers.
 * An embeddings is a vector numerical representation of a text.
+* Every vector has the same size
 
 ### Types:
 - Word embeddings: Represents the words so the words with close meanings looks almost similar(word2vec, fasttext)
